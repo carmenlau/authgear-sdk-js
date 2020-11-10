@@ -10,6 +10,6 @@
     "dist/authgear-web.cjs.js"
   ],
   "devDependencies": {
-    "@authgear/core": "0.1.0"
+    "@authgear/core": "file:../authgear-core"
   }
 }
